@@ -1,14 +1,8 @@
 [
 	{
-		"name": "fosscord.com",
-		"url": "https://app.fosscord.com",
-		"description": "The offical Fosscord instance",
-		"official": true
-	},
-	{
 		"name": "Fosscord Staging",
 		"url": "https://staging.fosscord.com",
-		"description": "Official testing instance",
+		"description": "Official Fosscord testing instance",
 		"official": true
 	},
 	{
