@@ -1,5 +1,6 @@
 # How to submit your own Instance
 
+0. Make sure your instance is in line with our [rules and guidelines](https://docs.spacebar.chat/contributing/instances/)
 1. Fork the repository.
 2. Add your instance the [`instances.json`](instances.json) file. Make sure to follow this template (the image key is **optional**):
 
