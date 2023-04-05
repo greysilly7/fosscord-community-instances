@@ -4,17 +4,5 @@
 		"url": "https://staging.fosscord.com",
 		"description": "Official Fosscord testing instance",
 		"official": true
-	},
-	{
-		"name": "Fastcord",
-		"url": "https://fosscord.greysilly7.xyz",
-		"description": "The best fosscord instance with 24/7 uptime, running under on a NVME drive running with bleeding edge stuff <3",
-		"image": "https://github.com/greysilly7.png"
-	},
-	{
-		"name": "Slowcord",
-		"url": "https://slowcord.understars.dev",
-		"description": "MaddyUnderStars' development instance. 24/7 uptime, data persistence, with many new and not yet merged features.",
-		"image": "https://slowcord.understars.dev/attachments/992786774428320167/1005292082573796165/Ducky.jpg"
 	}
 ]
